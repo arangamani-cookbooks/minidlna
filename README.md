@@ -1,4 +1,7 @@
 # minidlna cookbook
+[![Build Status](https://travis-ci.org/arangamani-cookbooks/minidlna.png?branch=master)](https://travis-ci.org/arangamani-cookbooks/minidlna)
+
+
 This cookbook installs and configures minidlna server.
 
 # Requirements
