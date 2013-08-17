@@ -27,7 +27,7 @@ The following are the attributes used by this cookbook.
 
 # Recipes
 
-## minidlna::node
+## minidlna::default
 This recipe installs the minidlna package and configures based on the
 attribtues given.
 
